@@ -23,8 +23,8 @@ The Global Labor Market is suffering from a systemic failure of trust and effici
 
 We are architecting the **Liquid Economy**. In this world, the "Corporation" dissolves into **"Flash Squads"**, and the "Employee" evolves into the **"Sovereign Professional"**.
 
-| Old World (Corporate) | New World (Liquid) |
-| :--- | :--- |
+| Dimension | Old World (Corporate) | New World (Liquid) |
+| :--- | :--- | :--- |
 | **Contract** | Indefinite Employment | Smart Contract Quest |
 | **Identity** | Static CV (Fakeable) | On-Chain History (Verified) |
 | **Hiring Speed** | 3-6 Weeks | < 3 Minutes |
@@ -86,4 +86,5 @@ For inquiries or contribution access, please contact the Lead Architect.
 > *"The future belongs to the builders who can sell."*
 
 ---
+
 *© 2026 Kyo Yeung. All Rights Reserved.*
